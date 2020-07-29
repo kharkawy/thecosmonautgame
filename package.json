@@ -1,0 +1,28 @@
+{
+  "name": "the-cosmonaut-game",
+  "version": "1.0.0",
+  "description": "A game made in Unity, exported to WebGL",
+  "main": "index.html",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharkawy/thecosmonautgame.git"
+  },
+  "keywords": [
+    "unity",
+    "webgl"
+  ],
+  "author": "Karolina Harkawy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharkawy/thecosmonautgame/issues"
+  },
+  "homepage": "https://github.com/kharkawy/thecosmonautgame#readme"
+}
