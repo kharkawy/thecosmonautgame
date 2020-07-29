@@ -1,6 +1,9 @@
 # The Cosmonaut Game
 
 ## Description
+A shooter game made in Unity and exported in WebGL. 
+
+## Plot
 You are a cosmonaut on an alien planet. Your goal is to shoot and kill as many enemies as possible.
 
 ## Game controls:
