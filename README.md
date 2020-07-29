@@ -6,6 +6,14 @@ A shooter game made in Unity and exported in WebGL.
 ## Plot
 You are a cosmonaut on an alien planet. Your goal is to shoot and kill as many enemies as possible.
 
+## Installation
+
+1. Clone the repository onto your local machine
+1. Run `npm install`
+
+## Development
+1. Run `npm run start` and click the link printed in the console.
+
 ## Game controls:
 1. Use W, S, A and D keys to move the Cosmonaut 
    around the map
